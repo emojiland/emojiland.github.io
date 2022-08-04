@@ -1,3 +1,5 @@
+Copy and Paste All Emojis
+
 EmojiLand is
 A handshake website to copy and paste all the emojis as of 04/08/2022
 Created by TrueWeb3/ .
